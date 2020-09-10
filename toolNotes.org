@@ -1,0 +1,93 @@
+#+TITLE: Tool Notes
+
+For all of these tools, I looked at how I would implement them for an introductory Lesson for a survey of Counterpoint in a Music History/Theory class as this is something I have taught recently.
+
+* Insert Learning
+- Requires system admin approval to grant priveledges to use with Tri-C account
+  + I tested it with my personal Google and Microsoft accounts
+- Works with any webpage that uses proper HTML tags and with Google Docs
+  + Can work on other websites too, but it seemed to work easier on some than others
+** What is this tool?
+- Insert Learning is an annotation tool that allows for interactive lesson content using webpages and Google Docs
+** Why would you want to use it?
+- Can simulate the interactivity of a classroom presentation, including groupwork, all in realtime
+  + Can see students highlight and answer questions in real time and check their work at a later time
+** How does it work?
+- An instructor downloads and activates the extension for their browser and heads to a webpage they want to use in a lesson (a Google Doc can also be used, but will need to be published, first). Then, all wanted annotations should be added and the lesson is published to the class where students can complete the assignment. In addition to being uploaded to an Insert Learning class, it can also be uploaded to a Google Classroom, a Microsoft Team, or via hyperlink. Grades for all answers can be done in the instructor's dashboard where each question is grouped with all students repsonses for easy grading.
+** What disciplines would it work best for?
+- English literature
+- Foreign languages/ESL
+- Philosophy
+- Music Theory
+- History
+- Science Lectures
+- Most classes where articles or reading is done for preparation
+- IT courses, possibly even programming
+** Any other useful tidbits?
+- Works on Chromium-based browsers
+  + This includes Google Chrome, Chromium, Vivaldi, Edge (Not the older Microsoft Edge browser)
+- Also works on Firefox
+- Wide browser support means it can be used on Windows, MacOS, Linux
+- Can have 5 lessons for free, but it costs to have more than that
+  + $8/month or $40/year
+  + Also allows for institutional payment, but didn't list costs or license limits
+** Example:
+- Class Code: gv54yy
+  + Assignment: https://insertlearning.com/v1/share/g5m9f78b
+* Padlet
+- Needs system admin approval for use with Tri-C account
+  + I tested it with my personal Google account and an unsigned in student
+** What is this tool?
+- A collaborative art board, allowing students and instructors to interact and post both comments and posts
+** Why would you want to use it?
+- Provides a structured virtual environment with multiple layouts to allow instructors to give students audio and video files, links to websites or other materials, as well as a place to communicate all in one.
+** How does it work?
+- The instructor creates a Padlet board and decides its settings, including user/visitor permissions. Then, they provide a link to their students. Once that is done, comments/replies are made by clicking on the box below a post and new posts are made by clicking on the plus at the bottom-right of the screen. Instructors can moderate using the menu at the top right of a post/reply.
+** What disciplines would it work best for?
+- Creative writing
+- The Arts (maybe not music)
+- Business
+- History (because of the globe and timeline layouts)
+- IT/Programming (for one or two layouts)
+- Mathematics, with the built in Draw tool for notes/solutions
+** Any other helpful tidbits?
+- Can have students add/post images, gifs, videos, screen captures, and links
+  + Instructors can also post, too, allowing for collaborative teaching
+- Works well in browsers, my preference, but also works well on Android and iOS apps
+  + Browser implementation also works well when viewed on a mobile device or on a tablet
+- Only get 5 Padlets for free
+  + Educational pricing is $2000 for 500 teacher/student accounts, but can contact Padlet for a custom quote
+- When looking at the mobile app and the website/Padlets on mobile, some layouts are not intuitive as they require lateral scrolling
+- I worry that Padlets with many students posting could become difficult to load on computers with low amounts of RAM or with lower-end CPUs
+  + Chromium-based browsers, especially Google Chrome, tend to open individual items on a page as separate processes, using more RAM and this could be an issue, but would need further testing
+- Posts are available in real-time, which promotes the cooperative experience of the classroom, but may cause similar issues as the above point due to extra processing needed for the page to maintain a current connection (not relying on a cached version)
+** Examples:
+1. https://padlet.com/thevillagetuba/dxf26d1jf0g6xoyf
+2. https://padlet.com/thevillagetuba/3czzdrewey0k6ffe
+* Explain Everything
+- While it is possible to log in with a Tri-C account, videos cannot be saved to the associated OneDrive without system admin approval
+** What is this tool?
+- Document anotation and screen capture application.
+- Great whiteboard replacement or slideshow presentation tool
+** Why would you want to use it?
+- Great tool to present math solutions, lecture notes, and slides to break material down into the necessary steps/quantities for students to understand
+** How does it work?
+- Instructors will start a new project or load an existing one. If starting a new project, they can choose to start with a blank cnavas, a template, or with a file (image, document, or video). Then, tools similar to MS Paint or those available on smartboards become available to the left with recording tools to the bottom. App can either record audio and video simultaneously or separately; all recording is very straightforward to do, much like recording a video on a phone. Additional layers of video and audio recording can be made over the top of what has already been recording or a new recording can overwrite what is already there. Once finished, the video can be shared via a link or uploaded to Google Drive, YouTube, Dropbox, OneDrive, etc.
+- Can insert media and files from the device, and apparently from the browser in split screen (but I can't test this as my device is smaller and does not support this).
+** What disciplines would it work best for?
+- Mathematics
+- Science
+- Music Theory
+- Foreign Languages/ESL
+- History
+- Programming/IT
+- The Arts
+** Any other helpful tidbits?
+- Works on both iOS, Android, and has a web implementation
+  + The web version is not as easy to use on a desktop, but might be better on with a touchscreen or a 2-in-1.
+- Educational pricing is $8.99 per user, per year or $0.90 per user, per month
+  + limit of one slide, 3 projects, and 1 minute shared recordings on the free plan
+- No access to what I made on my iPad on the desktop or on the Android app.
+** Example:
+- https://expl.ai/SZYVPKK
+
