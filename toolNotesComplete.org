@@ -1,0 +1,12 @@
+#+TITLE: Tool Notes Complete
+
+* Communication tools
+** Slack
+
+* Note-taking/documentation tools
+
+* Anotation tools
+
+* Screen recording/video lecture tools
+
+* Online instruction/lesson tools (non-video)
