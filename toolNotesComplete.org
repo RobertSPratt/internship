@@ -9,14 +9,47 @@
 - Slack is a communication tool that allows for text, audio, and video communication.
 *** Why would you want to use it?
 - Within a workspace, replies can be made in threads to avoid cluttering the main conversation
--
+- Cross-platform support, including Android and iOS apps
+  + these apps update simultaneously with the web implementation
+  + desktop notifications are possible
+*** How does it work?
+- An instructor or group leader would make a workspace and invite everyone they would like to participate with either an e-mail invite or a link to the workspace. Organization e-mails can also have workspaces that are available by default. Once in a workspace, communication can happen on the main channel just as in any other chat software, including private messages and group chats. Voice/video chats can be started by clicking on the the phone icon near the person's name (either in the direct message or on their profile), but only up to 15 people can be on a call.
+*** What disciplines would it work best for?
+- Special topics courses
+- Courses that focus a lot on group work
+- Philosophy
+- Lab courses
+*** Any other useful tidbits?
+- Works on across all browsers (and operating systems) I've tested
+  + Chromium-based, Firefox, mobile browsers, Android and iOS apps
+- The 15-person limit on calls makes it difficult to use for lecturs and most courses
+- Allows reactions as both replies and to replies
+- Pricing depends on organization size, but those sizes aren't listed
+  + Medium to Large organizations are $12.95/month, but Large organizations require custom quotes
+*** Example:
+- https://join.slack.com/t/acad-global/shared_invite/zt-ho1hhck1-cwJbqWnRHK8785t98AfWPQ
+
 ** Teach, Learn, Lead
--
+*** What is this tool?
+- This appears to be a social media tool for teachers to communicate with other teachers to gain advice, ideas, and support at the start of their careers.
+*** Why would you want to use it?
+- Teachers have the ability to reac out to other teachers for new ideas to improve their lectures or find a way to teach a subject or work with a student.
+*** How does it work?
+- A teacher signs up using their e-mail, Facebook, or LinkedIn account, and then sees a wall of recent activity similar to most other social media platforms. The teacher can then read recent activity; post their own questions or thoughts; or navigate around different topics and search the platform for anything that might interest them.
+*** What disciplines would it work best for?
+- Teachers of any discipline, but isn't directly useable in a lecture/lab.
+*** Any other useful tidbits?
+- After signing up, my feed had a spam post from a week ago and then nothing else newer than a month old, even if selected to show all activity.
+  + This makes me wonder about how active the user base is
+- Appears to be free, but doesn't appear to provide anything that isn't already offered through Facebook, LinkedIn, etc., especially since this is a personal resource and doesn't seem to have any enterprise benefits.
 
 * Note-taking/documentation tools
 
 * Anotation tools
 
 * Screen recording/video lecture tools
+** Doceri
+** Educreations
+-
 
 * Online instruction/lesson tools (non-video)
