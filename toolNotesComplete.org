@@ -46,7 +46,53 @@
   + The mobile sites has links to download an app that can work with their site
 
 * Note-taking/documentation tools
-
+** Evernote
+- Works with Tri-C account.
+*** What is this tool?
+- A tool for taking notes, anotating PDFs, and collaborating with others on the notebook (essentially a folder holding all of the notes and pdfs). Folders can also include pictures from the device, or take them with the camera, or record audio files for the notebook, as well. Web clipper allows for copying of a webpage directly into a notebook (text comes in as text and images as images).
+*** How does it work?
+- Instructor downloads the app, either a mobile app or desktop app, or signs in on the web-browser. There features availble to the user varies depending on the implementation used:
+**** Browser
+- Can insert photos, tables, checkboxes, and code snippets and attach documents. Text editor allows for superscript and subscript, hyperlinks, ordered and unordered lists, checklists, and the usual text editor tools.
+- Notebooks can quickly be given tags and shared with others.
+***** Web Clipper Addon
+- Available on Firefox and Chromium-base Browsers (including Edge)
+**** Desktop App (Windows)
+- Editor is similar to a text editor (Google Docs, MS Word, LibreOffice, etc.)
+- Can record audio, attach documents, take and add photos, attach file from Google Drive, insert a table, and insert a code block.
+- Can play audio recordings in the app.
+**** Desktop App (Mac) #TODO: Test the Mac App when Macbook arrives.
+**** Tusk Desktop App (Unofficial Linux App)
+- This is the browser implementation in a desktop app.
+  + Has all of the functionality of the browser version with the addition of a system tray icon for quick launching.
+**** NixNote2 Desktop App (Unofficial Linux App)
+- Can add text notes, tags, source urls, set the author of a note, insert tables, and mark as done.
+- Very limited in terms of functionality and not the most intuitive to set up.
+**** Mobile App (Android & iOS)
+- Editor is redesigned for mobile, so there isn't much of a task bar/menu.
+  + Four icons exist at the bottom:
+    1. take/attach photo from device,
+    2. record and attach audio,
+    3. sketch/handwriting,
+    and
+    4. attach file.
+  + Tapping at the bottom of a notebook will allow for new notes to be typed in (and any of the above options can be added into the note).
+- Web clipper to import websites into the notebook, with text importing as text and images as images.
+*** What disciplines wouldit work best for?
+- IT/Programming
+- Mathematics
+- Science (Physics & Chemistry)
+- Art
+- English
+- Foreign languages/ESL
+*** Any other useful tidbits?
+- Evernote Business is listed at $14.99/user/month, but there is not education option listed.
+  + Student discount gives 50% off the first year.
+- Notebooks can be shared with those without an account, but they can only view it.
+  + Those with an account can collaborate within a notebook, set reminders, and add tags.
+- PDF annotation has preset shapes (such as arrows) to use to draw attention to content.
+*** Example:
+- https://www.evernote.com/shard/s627/sh/5730028f-6664-4929-bc9e-cf64dca70775/4ed67abdfd448cdc7fd021909772827b
 * Anotation tools
 
 * Screen recording/video lecture tools
@@ -81,3 +127,24 @@
 - It appears to be free to use, including all of the tours I took.
 - Works well on both Android and iOS.
 - It seems as though most tours can be done as AR or VR, but VR might be required for some.
+** Google Tour Creator
+- Requires a Google account
+  + Would have to set Tri-C account up as a Google one, so I used my personal account instead.
+*** What is this tool?
+- Tour Creator allows for the creation of 3D virtual tours using Google Street View and Google's library of images inside locations.
+*** How does it work?
+- The instructor signs up to use the Tour Creator and selects to create a tour, assigning the tour a cover photo, title, description, and catagory. Then, they search for a place and can drop the street view character (golden person above the zoom controls on the map) on a place to look around; valid locations will be outlined and the streetview will snap to the closest valid point, if dropped on an invalid one. Next, they click "add scene" to set a "starting view" and can then assign the scene details such as title, place, description, credits, ambient sounds, narration, and points of interest. Once all of the scenes are added, the instructor clicks the "Publish" button on the top of the screen.
+*** What disciplines would it work best for?
+- Art
+- Cultural anthroplogy
+- Sociology
+- English literature
+- History
+- Foreign languages/ESL
+- Engineering/Urban development
+*** Any other useful tidbits?
+- It appears to be free to use, including synching it up with Google Expiditions
+- If tours are created with the same Google account as is used with Expeditions, then the tours can easily used through that tool.
+- Some places, such as the Muzeul de Arta in Constanta, Romania allows for tours to be taken inside of their facility, including views close to the art exhibits (as shown in my example).
+**** Example:
+- https://poly.google.com/view/fNERsA7NN7U
