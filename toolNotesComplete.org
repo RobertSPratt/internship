@@ -42,6 +42,8 @@
 - After signing up, my feed had a spam post from a week ago and then nothing else newer than a month old, even if selected to show all activity.
   + This makes me wonder about how active the user base is
 - Appears to be free, but doesn't appear to provide anything that isn't already offered through Facebook, LinkedIn, etc., especially since this is a personal resource and doesn't seem to have any enterprise benefits.
+- Does not have an app, but mobile website functions fine.
+  + The mobile sites has links to download an app that can work with their site
 
 * Note-taking/documentation tools
 
@@ -52,4 +54,30 @@
 ** Educreations
 -
 
-* Online instruction/lesson tools (non-video)
+* Instruction/lesson tools (non-video)
+** Expeditions
+- Requires a Google account
+  + Would have to set Tri-C account up as a Google one, so I instead used my personal account.
+*** What is this tool?
+- Expeditions is a virtual field trip/presentation tool. It can be used to discuss locations and items/models without having to be there or with them in person.
+*** Why would you want to use it?
+- Instead of using low-quality slide copies in a lecture, or trying to project a physical model to a smartboard, these 3D models can be displayed and discussed, instead. This also holds true when discussing locations that are unreasable to travel to for a lecture.
+*** How does it work?
+- The app can be used in two ways:
+  1. The official way is to download the app to the instructor's phone or tablet and either:
+     a. going around the class room showing the students the model
+     or
+     b. providing the students with devices with the app installed (or having them download it onto their own) and a VR viewer (or cardboard holder) and taking them on a virtual tour of the model/site.
+  2. This should also work with a screencast to display what is on the app on a tablet to a computer/smartboard (or even a virtual lecture).
+*** What disciplines would it work best for?
+- History
+- Sciences
+- Art
+- IT
+- English Literature
+- Sociology
+- Cultural Anthropology
+*** Any other useful tidbits?
+- It appears to be free to use, including all of the tours I took.
+- Works well on both Android and iOS.
+- It seems as though most tours can be done as AR or VR, but VR might be required for some.
