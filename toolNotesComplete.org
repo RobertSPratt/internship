@@ -2,6 +2,16 @@
 
 * Communication tools
 ** Slack
+- Can join with Tri-C account
+  + three workspaces are available for Tri-C accounts to join
+  + has the ability to create a new workspace
+*** What is this tool?
+- Slack is a communication tool that allows for text, audio, and video communication.
+*** Why would you want to use it?
+- Within a workspace, replies can be made in threads to avoid cluttering the main conversation
+-
+** Teach, Learn, Lead
+-
 
 * Note-taking/documentation tools
 
