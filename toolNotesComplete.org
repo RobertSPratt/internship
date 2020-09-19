@@ -148,3 +148,23 @@
 - Some places, such as the Muzeul de Arta in Constanta, Romania allows for tours to be taken inside of their facility, including views close to the art exhibits (as shown in my example).
 **** Example:
 - https://poly.google.com/view/fNERsA7NN7U
+
+** Webjets
+- Works just fine with Tri-C account, but the e-mails from it were flagged as spam.
+*** What is this tool?
+- Webjets is a artboard-style tool that allows for ideas, links, and documents to be grouped and organized in a logical manner.
+*** How does it work?
+- The instructor can create an artboard for a specific class, lecture, or project/assignment. Once created, they can place cards, mindmaps, folders, lists, links, documents, etc. onto the artboard and organize them on the board as would best fit the item or instructor's purpose. Webjets has a button to easily import both Wikipedia articles and Youtube videos. Folders can contain other folders, cards, lists, links, and everything else to keep those items organized (the same is true for every other type of object, as well). Those items can also be given additional views that give them there own space on the artboard for better viewing. The artboard can be shared with specific people, giving them editing or view permissions, or it can be published and distributed with a link.
+*** What disciplines would it work best for?
+- English Literature
+- Foreign Languages/ESL
+- History
+- IT Programming and Networking
+- Courses that focus around large projects
+*** Any other useful tidbits?
+- Webjets is free to sign up, but with limited storage space and number of boards.
+  + Educational plans are listed as free, but I do not know if there is a limitation to this account.
+    - There is also no mention of how often reverification might need to happen.
+- Pretty intuitive to use in terms of creation, but might not be so for a student viewing a lesson.
+*** Example:
+- https://app.webjets.io/p/kQtTtavzyNNovkbMVnkv8eCNf3c2/-MHbMkE1F82T1GuxxLSH
