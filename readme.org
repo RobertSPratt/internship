@@ -1,0 +1,63 @@
+#+TITLE: Read Me
+
+* Project Summary
+This project shows notes on various Educational Tech Tools that have come to the attention of the Center for Learning Excellence at the Metro campus for Cuyahoga Community College that they are interested in learning more about. The list of these tools, as given to me and not in any order, are given lower in this document. This project will provide notes on what these tools are and how they are used and will catagorize them into smaller groups that represents their function for better comparisons.
+* Poject update history
+**** 19 September 2020
+- Added the readme.org to the repo and added Webjets to the toolNotesComplete.org file.
+**** 18 September 2020
+- Added notes on Evernote, Expeditions, and Google Tour Creator
+- Added the edTechTools.docx file that contains the project's tool list so that it is contained in the repo
+- Added Expeditions tool
+- Finished Slack and Teach, Learn, Lead entries
+**** 17 September 2020
+- Started working on the Slack
+- Created toolNotesComplete.org - this will contain the new, larger project, with categories
+**** 10 September 2020
+- Created toolNotes.org - this contains the first four tools, which was the original project.
+* Ed Tech Tools that this project will look at:
+1) [X] Kahoot
+2) [X] PlayPosit
+3) [X] Teach, Learn, Lead
+4) [X] Slack
+5) [X] Remind
+6) [ ] Doceri
+7) [X] Evernote
+8) [ ] Educreations
+9) [X] Edxpeditions
+10) [ ] Story Corps
+11) [ ] Bulb
+12) [ ] Buncee
+13) [ ] Edpuzzle
+14) [ ] Equity Maps
+15) [ ] Prowriting Aid
+16) [X] Google Tour Creator
+17) [ ] Great Big Story
+18) [ ] Geoguessr
+19) [X] Webjets
+20) [ ] Yoteach
+21) [ ] ClassroomQ
+22) [ ] ThingLink
+23) [ ] Wakelet
+24) [X] Padlet
+25) [ ] Touchcast
+26) [ ] UpGrad
+27) [ ] H5P
+28) [ ] Airhead
+29) [ ] Canva
+30) [ ] Pear Deck
+31) [ ] SiLAS Solutions
+32) [ ] Black Bullion
+33) [ ] Quizalize
+34) [ ] Trovvit
+35) [ ] Labster
+36) [ ] Zeemaps
+37) [ ] Unimersiv
+38) [ ] Learn Around the World
+39) [ ] Desmos
+40) [ ] SMART Technologies
+41) [ ] (g)Math
+42) [ ] Lifeliqe
+43) [ ] Sutori
+44) [X] Insert Learning
+45) [X] Explain Everything
