@@ -21,14 +21,14 @@ This project shows notes on various Educational Tech Tools that have come to the
 3) [X] Teach, Learn, Lead
 4) [X] Slack
 5) [X] Remind
-6) [ ] Doceri
+6) [X] Doceri
 7) [X] Evernote
-8) [ ] Educreations
+8) [X] Educreations
 9) [X] Edxpeditions
-10) [ ] Story Corps
-11) [ ] Bulb
-12) [ ] Buncee
-13) [ ] Edpuzzle
+10) [X] Story Corps
+11) [X] Bulb
+12) [X] Buncee
+13) [X] Edpuzzle
 14) [ ] Equity Maps
 15) [ ] Prowriting Aid
 16) [X] Google Tour Creator

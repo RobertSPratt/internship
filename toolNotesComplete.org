@@ -78,7 +78,7 @@
     4. attach file.
   + Tapping at the bottom of a notebook will allow for new notes to be typed in (and any of the above options can be added into the note).
 - Web clipper to import websites into the notebook, with text importing as text and images as images.
-*** What disciplines wouldit work best for?
+*** What disciplines would it work best for?
 - IT/Programming
 - Mathematics
 - Science (Physics & Chemistry)
@@ -93,14 +93,184 @@
 - PDF annotation has preset shapes (such as arrows) to use to draw attention to content.
 *** Example:
 - https://www.evernote.com/shard/s627/sh/5730028f-6664-4929-bc9e-cf64dca70775/4ed67abdfd448cdc7fd021909772827b
+
 * Anotation tools
+** Edpuzzle
+- Works with Tri-C account
+  - Gave a choice of campus and listed how many other teachers were using it at each.
+*** What is this tool?
+- A video annotation tool that allows for qustions and comments to be added to YouTube, Khan Academy, and other videos.
+*** Why would you want to use it?
+- Allows for questions to both ensure that students are paying attention to the videos and understanding the concepts presented.
+- The instructor can also add comments to the video to allow for commentary to simulate showing the video in the classroom.
+*** How does it work?
+- After signing into the webapp, the instructor can search for a video on YouTube and select one to use (it it cannot be found through Edpuzzle, then the extension can be installed on a Chromium-based and can be used to import a video from YouTube into Edpuzzle). Then, they can modify the length of the video (cut it to the size/section that they want to use) and scrub through it to add questions and comments at the time codes that they would be relevant.
+*** What disciplines would it work best for?
+- History
+- Mathematics
+- Foriegn Language/ESL
+- Psychology
+- Sociology
+*** Any other useful tidbits?
+- Has three payment tiers, including one for schools that is based on a custom quote.
+- Seems to integrate only with YouTube videos, but videos can also be uploaded from Google Drive and from the local drive.
+- Keeps track of how well the students do in the local gradebook.
+- The webapp works in non-Chromium browsers, but the extension does not; so, the instructor has to rely on the videos that are part of the Popular Channels, able to be found by the search within the webapp, or uploaded by the user.
+
+** Insert Learning
+- Requires system admin approval to grant priveledges to use with Tri-C account
+  + I tested it with my personal Google and Microsoft accounts
+- Works with any webpage that uses proper HTML tags and with Google Docs
+  + Can work on other websites too, but it seemed to work easier on some than others
+*** What is this tool?
+- Insert Learning is an annotation tool that allows for interactive lesson content using webpages and Google Docs
+*** Why would you want to use it?
+- Can simulate the interactivity of a classroom presentation, including groupwork, all in realtime
+  + Can see students highlight and answer questions in real time and check their work at a later time
+*** How does it work?
+- An instructor downloads and activates the extension for their browser and heads to a webpage they want to use in a lesson (a Google Doc can also be used, but will need to be published, first). Then, all wanted annotations should be added and the lesson is published to the class where students can complete the assignment. In addition to being uploaded to an Insert Learning class, it can also be uploaded to a Google Classroom, a Microsoft Team, or via hyperlink. Grades for all answers can be done in the instructor's dashboard where each question is grouped with all students repsonses for easy grading.
+*** What disciplines would it work best for?
+- English literature
+- Foreign languages/ESL
+- Philosophy
+- Music Theory
+- History
+- Science Lectures
+- Most classes where articles or reading is done for preparation
+- IT courses, possibly even programming
+*** Any other useful tidbits?
+- Works on Chromium-based browsers
+  + This includes Google Chrome, Chromium, Vivaldi, Edge (Not the older Microsoft Edge browser)
+- Also works on Firefox
+- Wide browser support means it can be used on Windows, MacOS, Linux
+- Can have 5 lessons for free, but it costs to have more than that
+  + $8/month or $40/year
+  + Also allows for institutional payment, but didn't list costs or license limits
+*** Example:
+- Class Code: gv54yy
+  + Assignment: https://insertlearning.com/v1/share/g5m9f78b
 
 * Screen recording/video lecture tools
 ** Doceri
+*** What is this tool?
+- Document annotation and screen capture tool
+- Remote desktop control software
+*** Why would you want to use it?
+- Allows instructor to manipulate their presentation or write on their smartboards or computer screens from anywhere in the room, freeing them up to be more involved in their classroom.
+- Allows for all of the presentation to be recorded, including audio from the iPad's microphone, which would make it easy to upload the lecture for students to review.
+*** How does it work?
+- To use it as a standalone app, the instructor just needs to download it to their iPad and load it, selecting to use it "from my iPad alone." Then, they can use this as a digital whiteboard where they can record solutions to problems or their notes as they record a voice-over/lecture; they can also load an image to anotate or markup. It does not seem that the app allows for a powerpoint or PDF to be annotated by default.
+- To use it with a computer, the instructor needs to download the desktop app from the Doceri website for their system (MacOS or Windows). After downloading it, and possibly installing the required Java Runtime Emvironment, they will need to set up a password to use when connecting their iPad to their system. There are two ways for them to connect their iPad to their computer:
+  1. By selecting their computer from the list that the app found on the network, or adding it by clicking the plus sign at the bottom of the screen and giving the app the local IP address of their computer (this is shown on the desktop app).
+  2. By using their camera to scan the QR code on the desktop app.
+  + After connecting their iPad and computer, all of the same functions that are available with just the app are available, but they can now also control their computer and load softdawer and documents from it. Everything being done on the computer can be recorded by the app just as if it was being done on the iPad.
+*** What disciplines would it work best for?
+- Mathematics
+- Philosophy
+- IT, especially Programming
+- Sciences
+- Any discipline/course where a Socratic pedagogical style is/can be employed.
+*** Any othe helpful tidbits?
+- Desktop app is only available for Windows and MacOS.
+- Individual pricing is $30 for a perpetual license.
+  + they offer organizational quotes, but no additional info on them.
+- The Doceri watermark will persist until a separate purchase is made in the App store for the iPad.
+  + This might not be the case for organizational licensing, but I think it would as this is required due to Apple App store's policies.
+- App is only available for Windows 8.1 and iOS tablets.
+  + Windows tablets can also install the desktop app, but cannot run both at the same time.
+  + No Android implementation
+- I wonder if this app could be used with an iPad with an external keyboard. If so, this could be a powerful tool for teaching programming courses.
+- Only works if the tablet and computer are on the same local network and it might require the user knowing the computer's address.
+  + This address is written on the destop app, but can be a point of confusion for instructors that are not as tech savvy.
+  + Prevents instructors from practicing or working with the desktop app outside of the class room as they would no longer be on the network.
+  + This might have some workaround for the organizational license.
+- On the Mac desktop app, the app will send its current layouts key (my iPad is in QWERTY), but the Mac will place the character that is in that key's space in it's keyboard layout (I do not use QWERTY on my computers).
+  + This is not an issue on Windows.
 ** Educreations
--
+*** What is this tool?
+- Document annotation and screen capture application
+- Whiteboard replacement or slideshow presentation tool
+*** Why would you want to use it?
+- Allows for writing notes or math solutions to share with students.
+- Makes it easy to make video lectures and teaching materials to distribute to students
+*** How does it work?
+- The instructor would download the app to their iPad and then load it to it's default/starting whiteboard. Here, they can either begin taking notes or can import an image, document, or map and begin annotating it. There are a few options other than the standard whiteboard, such as lined paper, graph paper, or a coordinate grid. They can click the red microphone button to begin recording both what they write and what they speak. Once they are finished, they can save the video as either a draft or a published video, the latter of which can be shared with an Educreations account to others with an account and YouTube.
+*** What disciplines would it work best for?
+- Mathematics
+- Science
+- Foreign Languages/ESL
+- The Arts
+*** Any other helpful tidbits?
+- Three payment options listed:
+  1. Basic - Free, but very limited in what it can do and the space it is allowed
+  2. Pro Classroom - $99/year (or $12/month), 1 pro teacher account and pro 40 student accounts (more can be purchased) with full features and 5Gb storage/share space
+  3. Pro School - $1495/year, unlimited pro teacher and student upgrades at one school
+     - There is also Higher Ed pricing available, but that info requires an individual quote.
+- Once a video has been published, there does not seem to be a way to edit it or add to it, so the instructor would need to start all over or make a new video and then use external software to combine the two.
+- Was not as intuitive to use and offered fewer features than other options.
+
+** Explain Everything
+- While it is possible to log in with a Tri-C account, videos cannot be saved to the associated OneDrive without system admin approval
+*** What is this tool?
+- Document anotation and screen capture application.
+- Great whiteboard replacement or slideshow presentation tool
+*** Why would you want to use it?
+- Great tool to present math solutions, lecture notes, and slides to break material down into the necessary steps/quantities for students to understand
+*** How does it work?
+- Instructors will start a new project or load an existing one. If starting a new project, they can choose to start with a blank cnavas, a template, or with a file (image, document, or video). Then, tools similar to MS Paint or those available on smartboards become available to the left with recording tools to the bottom. App can either record audio and video simultaneously or separately; all recording is very straightforward to do, much like recording a video on a phone. Additional layers of video and audio recording can be made over the top of what has already been recording or a new recording can overwrite what is already there. Once finished, the video can be shared via a link or uploaded to Google Drive, YouTube, Dropbox, OneDrive, etc.
+- Can insert media and files from the device, and apparently from the browser in split screen (but I can't test this as my device is smaller and does not support this).
+*** What disciplines would it work best for?
+- Mathematics
+- Science
+- Music Theory
+- Foreign Languages/ESL
+- History
+- Programming/IT
+- The Arts
+*** Any other helpful tidbits?
+- Works on both iOS, Android, and has a web implementation
+  + The web version is not as easy to use on a desktop, but might be better on with a touchscreen or a 2-in-1.
+- Educational pricing is $8.99 per user, per year or $0.90 per user, per month
+  + limit of one slide, 3 projects, and 1 minute shared recordings on the free plan
+- No access to what I made on my iPad on the desktop or on the Android app.
+*** Example:
+- https://expl.ai/SZYVPKK
 
 * Instruction/lesson tools (non-video)
+** Bulb
+- Works with Tri-C account.
+*** What is this tool?
+- This is a collection/page creation/curating tool.
+*** Why would you want to use it?
+- Instructors can use this to crate assignment collections/pages for students to use/reference.
+*** How does it work?
+- The instructor either logs in to the webapp or loads the iOS app to get to their dashboard. Onch there, they have the option to create a page or a collection; a page is essentially a webpage/blog post and a collecion is a folder (a page with links to posts). Each page the instructor creates can have external links embedded into the texts that show YouTube videos, images, etc., and has easy tools for formatting text that appears just by highlighting the text that needs to be formatted.
+*** What disciplines would it work best for?
+- Business/Communication
+*** Any other useful tidbits?
+- There are three account levels:
+  1. Bulb Free - standard features, limit of 10 published pages, 2Gb max storage
+  2. Bulb+ - $30/year, everything in free plus unimited portfolios and storage and added Google Classroom integration
+  3. BulbEd - $2-4/year (requires quote), everything in the above plans plus admin and teacher dashboards, dedicated customer success manager and setup/tech support, and integration with more apps like MS OneDrive, Padlet, Slack, etc.
+- Intuitive to get started and use.
+- iOS app has most of the webapp functionality, but not all.
+
+** Buncee
+- Works with Tri-C account
+*** What is this tool?
+- A presentation and lesson creation tool.
+*** Why would you want to use it?
+- To create interesting slides and presentations of lesson material in order to make less interesting and more complicated topics easier to understand.
+*** How does it work?
+- The instructor loads the web or iOS app and either clicks on one of their projects or creates a new one. Then, they can click on the many tools available to insert/embed links, documents, anotate slides, record video, etc. Multiple slides can be added to the project, and the project can be shared or downloaded with each slide as a PNG image once completed. In the more expensive plans, multiple choice and free resonse questions can also be added to the project.
+*** What disciplines would it work best for?
+- Mathematics
+- Forign Language
+- Educationa
+*** Any other useful tidbits?
+- There are five different payment levels, including School & District pricing, which requires a custom quote.
+- Other than the basic white background, most of this tool seems focused at younger class, especially with their achievements.
+
 ** Expeditions
 - Requires a Google account
   + Would have to set Tri-C account up as a Google one, so I instead used my personal account.
@@ -149,6 +319,37 @@
 **** Example:
 - https://poly.google.com/view/fNERsA7NN7U
 
+** Padlet
+- Needs system admin approval for use with Tri-C account
+  + I tested it with my personal Google account and an unsigned in student
+*** What is this tool?
+- A collaborative art board, allowing students and instructors to interact and post both comments and posts
+*** Why would you want to use it?
+- Provides a structured virtual environment with multiple layouts to allow instructors to give students audio and video files, links to websites or other materials, as well as a place to communicate all in one.
+*** How does it work?
+- The instructor creates a Padlet board and decides its settings, including user/visitor permissions. Then, they provide a link to their students. Once that is done, comments/replies are made by clicking on the box below a post and new posts are made by clicking on the plus at the bottom-right of the screen. Instructors can moderate using the menu at the top right of a post/reply.
+*** What disciplines would it work best for?
+- Creative writing
+- The Arts (maybe not music)
+- Business
+- History (because of the globe and timeline layouts)
+- IT/Programming (for one or two layouts)
+- Mathematics, with the built in Draw tool for notes/solutions
+*** Any other helpful tidbits?
+- Can have students add/post images, gifs, videos, screen captures, and links
+  + Instructors can also post, too, allowing for collaborative teaching
+- Works well in browsers, my preference, but also works well on Android and iOS apps
+  + Browser implementation also works well when viewed on a mobile device or on a tablet
+- Only get 5 Padlets for free
+  + Educational pricing is $2000 for 500 teacher/student accounts, but can contact Padlet for a custom quote
+- When looking at the mobile app and the website/Padlets on mobile, some layouts are not intuitive as they require lateral scrolling
+- I worry that Padlets with many students posting could become difficult to load on computers with low amounts of RAM or with lower-end CPUs
+  + Chromium-based browsers, especially Google Chrome, tend to open individual items on a page as separate processes, using more RAM and this could be an issue, but would need further testing
+- Posts are available in real-time, which promotes the cooperative experience of the classroom, but may cause similar issues as the above point due to extra processing needed for the page to maintain a current connection (not relying on a cached version)
+*** Examples:
+1. https://padlet.com/thevillagetuba/dxf26d1jf0g6xoyf
+2. https://padlet.com/thevillagetuba/3czzdrewey0k6ffe
+
 ** Webjets
 - Works just fine with Tri-C account, but the e-mails from it were flagged as spam.
 *** What is this tool?
@@ -168,3 +369,17 @@
 - Pretty intuitive to use in terms of creation, but might not be so for a student viewing a lesson.
 *** Example:
 - https://app.webjets.io/p/kQtTtavzyNNovkbMVnkv8eCNf3c2/-MHbMkE1F82T1GuxxLSH
+
+* Online Resources/tools
+** Story Corps
+*** What is this tool?
+- This is an archive of interviews/conversations with people across the country that talk about their life expriences
+*** How does it work?
+- The instructor loads the site and goes to the "Stories" tab. There, they can search through the archives and filter the results to find one that fits their topic. Then, they can copy the URL of the story into an assignment or play it for the class.
+*** What disciplines would it work best for?
+- History
+- Sociology
+- Ethics
+*** Any othe useful tidbits?
+- Videos seem to be short, around 3 or so minutes in length, with some being animated.
+- The archive is free to access and nothing in their Terms of Use seems to limit its use in a classroom.
