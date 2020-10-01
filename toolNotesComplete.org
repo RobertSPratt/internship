@@ -94,6 +94,23 @@
 *** Example:
 - https://www.evernote.com/shard/s627/sh/5730028f-6664-4929-bc9e-cf64dca70775/4ed67abdfd448cdc7fd021909772827b
 
+** Equity Maps
+- Only available as a paid iOS app
+*** What is it?
+- A tool to track the amount of time each person in a group speaks in the meeting or group and then present graphical analysis of the results.
+*** Why would you want to use it?
+- To show how much each particant spoke and in what order, record the meeting, and evaluate the gender equality of the conversation (the new update says it has non-binary tracking now), as well as other metrics.
+*** What disciplines would it be good for?
+- Philosophy
+- Sociology
+- Creative writing
+- Any course that uses a more Socratic structure
+*** Any other useful tidbits?
+- No free version, but they do offer Organizational pricing.
+- Only available for iOS.
+- Requires the user to manually note when each speaker is speaking.
+  - This means it loses funtion it they forget and requires them to not pay split their attention between the discussion and the app.
+
 * Anotation tools
 ** Edpuzzle
 - Works with Tri-C account
@@ -383,3 +400,10 @@
 *** Any othe useful tidbits?
 - Videos seem to be short, around 3 or so minutes in length, with some being animated.
 - The archive is free to access and nothing in their Terms of Use seems to limit its use in a classroom.
+
+* Editing tools
+** Prowiting Aid
+*** What is this tool?
+- A writing/editing tool to assist in improving the spelling, grammar, and style of a students writing; it also has the ability to perform plagiarism checks.
+*** How does it work?
+- In the browser implementation, 

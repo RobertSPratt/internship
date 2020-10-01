@@ -29,7 +29,7 @@ This project shows notes on various Educational Tech Tools that have come to the
 11) [X] Bulb
 12) [X] Buncee
 13) [X] Edpuzzle
-14) [ ] Equity Maps
+14) [X] Equity Maps
 15) [ ] Prowriting Aid
 16) [X] Google Tour Creator
 17) [ ] Great Big Story
