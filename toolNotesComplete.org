@@ -45,6 +45,19 @@
 - Does not have an app, but mobile website functions fine.
   + The mobile sites has links to download an app that can work with their site
 
+** YoTeach
+*** What is this tool?
+- An online meeting tool that allows instructors to host digital classrooms where they can work with their students.
+*** How does it work?
+- The instructor creates a room and shares the join link (if a private room) with their students. Then, they can send messages, pictures with markup, or a drawing on the buit-in whiteboard.
+*** What disciplines would it work best for?
+- Mathematics
+- Science
+*** Any other useful tidbits?
+- Free to use.
+- Allows for some analytics tracking to see which students spoke the most.
+- Students do not have accounts and sign in anonymously by only declaring a nickname.
+- Webapp only, no mobile version.
 * Note-taking/documentation tools
 ** Evernote
 - Works with Tri-C account.
@@ -333,7 +346,7 @@
 - It appears to be free to use, including synching it up with Google Expiditions
 - If tours are created with the same Google account as is used with Expeditions, then the tours can easily used through that tool.
 - Some places, such as the Muzeul de Arta in Constanta, Romania allows for tours to be taken inside of their facility, including views close to the art exhibits (as shown in my example).
-**** Example:
+*** Example:
 - https://poly.google.com/view/fNERsA7NN7U
 
 ** Padlet
@@ -388,6 +401,35 @@
 - https://app.webjets.io/p/kQtTtavzyNNovkbMVnkv8eCNf3c2/-MHbMkE1F82T1GuxxLSH
 
 * Online Resources/tools
+** GeoGuessr
+*** What is this tool?
+- This is an online game where the player is set into a certain series of locations and they must guess where on the map they are.
+*** How does it work?
+- After loading the website and logging in, the type of map (either a specific country, type of location, etc.) is chosen and the game loads with the player seeing a Google Street View of a particular location. Depending on the specific game mode's settings, they might be able to move around to various views. Once they are ready, they can choose a location on the map in the bottom right of the screen to take their guess. Points are awarded based on how close their guess was to their actual location and the next location is loaded, if there are any left.
+*** What disciplines would it work best for?
+- Geography
+- Foreign Languages
+*** Any other useful tidbits?
+- Group memberships are available for groups of 15, 30, and 100 members for $39.99, $69.99, and $200, respectively.
+- The game does not have any clear instructions if you just jump into it, which can make it quite unintuitive to learn.
+- Games in countries can place players anywhere there is a Google Street View, including random rural rodes.
+  - My test game (only one game is allowed every 24 hours for free) sent to one mountain side that had some old, possibly historic, construction and steps and then four rural residential locations.
+  - No information about the location seems to be provided after the guss is made.
+
+** Great Big Story
+*** What is this tool?
+- This is an online archive of short videos--some documentary in style, some more of a an interview/explanation--that are designed to help expose the viewer to people of other cultures and backgrounds to discover the simularities that everyone shares.
+*** How does it work?
+- After pulling up the site, the instructor searches for a video or series that they would like to use. They can then play the video for the class or copy the link to include it in an assignment.
+*** What disciplines would it work best for?
+- History
+- Sociology
+- Cultural Anthropology
+- Ethics
+*** Any other useful tidbits
+- While the archive will be kept accessible, the project is no longer being worked on as of September.
+- The site is free to use, but everything on the site is considered copywritten by Great Big Story and so it is not clear their stance on their work being presented to groups in classroom.
+ 
 ** Story Corps
 *** What is this tool?
 - This is an archive of interviews/conversations with people across the country that talk about their life expriences
@@ -397,7 +439,7 @@
 - History
 - Sociology
 - Ethics
-*** Any othe useful tidbits?
+*** Any other useful tidbits?
 - Videos seem to be short, around 3 or so minutes in length, with some being animated.
 - The archive is free to access and nothing in their Terms of Use seems to limit its use in a classroom.
 
@@ -406,4 +448,16 @@
 *** What is this tool?
 - A writing/editing tool to assist in improving the spelling, grammar, and style of a students writing; it also has the ability to perform plagiarism checks.
 *** How does it work?
-- In the browser implementation, 
+- The instructor can either copy and paste in some text or upload a document. As soon as that is done, the software immediately begins to check for ways that the writing in the document could be improved. They could also check the realtime count of what is being found, or use any options along the top bar to see more specific information, including checking for signs of plagiarism.
+*** What disciplines would it work best for?
+- English
+- History
+- Business
+- IT
+- Science
+- Any courses with a lot of writing
+*** Any other useful tidbits?
+- Academic pricing and bulk pricing is available, the former requires a custom quote.
+- Integrates with Google Drive, MS Word, and most major browsers.
+- This cannot take tone or stylized writing into account, so it my test documents contained many "errors" that would have made the documents more difficult to read if the suggested corrections were accepted.
+  - Did not seem to work well with technical writing as it consistently wanted to simplify phrases down to a point were the meaning was no longer clear.

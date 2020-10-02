@@ -30,12 +30,12 @@ This project shows notes on various Educational Tech Tools that have come to the
 12) [X] Buncee
 13) [X] Edpuzzle
 14) [X] Equity Maps
-15) [ ] Prowriting Aid
+15) [X] Prowriting Aid
 16) [X] Google Tour Creator
-17) [ ] Great Big Story
-18) [ ] Geoguessr
+17) [X] Great Big Story
+18) [X] Geoguessr
 19) [X] Webjets
-20) [ ] Yoteach
+20) [X] Yoteach
 21) [ ] ClassroomQ
 22) [ ] ThingLink
 23) [ ] Wakelet
