@@ -48,6 +48,8 @@
 ** YoTeach
 *** What is this tool?
 - An online meeting tool that allows instructors to host digital classrooms where they can work with their students.
+*** Why would you want to use it?
+- To create a digital classroom or chatroom to work with and collaborate with students that does not require the students to list provide any personal information into the service.
 *** How does it work?
 - The instructor creates a room and shares the join link (if a private room) with their students. Then, they can send messages, pictures with markup, or a drawing on the buit-in whiteboard.
 *** What disciplines would it work best for?
@@ -58,11 +60,31 @@
 - Allows for some analytics tracking to see which students spoke the most.
 - Students do not have accounts and sign in anonymously by only declaring a nickname.
 - Webapp only, no mobile version.
+** ClassroomQ
+*** What is this tool?
+- A web queue tool to help instructors keep track of which students need assistance and in which order they reduested it.
+*** Why would you want to use it?
+- It allows the students to requst assistance and then return to their work, knowing that their instructor will be by to help as the queue is emptied.
+*** How does it work?
+- The instructor logs into the website and clicks on the "Start" session to create a new class session. Then, the students click on the "Students" tab at the top of the page and input their names and the class code that the instructor provides to log on. When the students need assistance, all they need to do is click on the "Assistance Needed" button to be added to the queue of those waiting for assistance.
+*** What disciplines would it work best for?
+- Sciences, especially labs
+- Creative writing
+- Ethics
+- Medical classes
+- Business
+*** Any othe useful tidbits?
+- Free account only allows for 1 teacher and up to 5 students in the queue.
+  - School option is $500/year, allows up to 100 teacher accounts and an unlimited number of students in the queue
+  - District option is $1500/year and is the same as the School option, but allows for up to 1000 teacher accounts.
+- No mobile app, but the website seems to work fine on a mobile device.
 * Note-taking/documentation tools
 ** Evernote
 - Works with Tri-C account.
 *** What is this tool?
-- A tool for taking notes, anotating PDFs, and collaborating with others on the notebook (essentially a folder holding all of the notes and pdfs). Folders can also include pictures from the device, or take them with the camera, or record audio files for the notebook, as well. Web clipper allows for copying of a webpage directly into a notebook (text comes in as text and images as images).
+- A tool for taking notes, anotating PDFs, and collaborating with others on the notebook (essentially a folder holding all of the notes and pdfs). Folders can also include pictures from the device, or take them with the camera, or record audio files for the notebook, as well. Web clipper allows for copying of a webpage directly into a notebook (text comes in as text and images as images)
+*** Why would you wat to use it?
+- Evernote provides the ability to sync notebooks across devices and users, allowing for content to be organized and shared seamlessly and in realtime. This would be an ideal solution for project/capstone submission or for course/lecture note distribution.
 *** How does it work?
 - Instructor downloads the app, either a mobile app or desktop app, or signs in on the web-browser. There features availble to the user varies depending on the implementation used:
 **** Browser
@@ -109,10 +131,12 @@
 
 ** Equity Maps
 - Only available as a paid iOS app
-*** What is it?
+*** What is this tool?
 - A tool to track the amount of time each person in a group speaks in the meeting or group and then present graphical analysis of the results.
 *** Why would you want to use it?
 - To show how much each particant spoke and in what order, record the meeting, and evaluate the gender equality of the conversation (the new update says it has non-binary tracking now), as well as other metrics.
+*** How does it work?
+- The instructor would set up a map of all of the students in their classroom and start the application as soon as the discussion/class starts. Then, as different students answer questions/participate in the discussion, they would select that student to have the software start to count the amount of time that the person is speaking; they could also include themselves in the map to keep track of how much they might lead the discussion and can use the appropriate buttons to track silence and the chaos of more than one student talking at a time. Then, once the discussion/lecture is over, they can end the session and see a report of the distribution of participation.
 *** What disciplines would it be good for?
 - Philosophy
 - Sociology
@@ -180,6 +204,25 @@
 - Class Code: gv54yy
   + Assignment: https://insertlearning.com/v1/share/g5m9f78b
 
+** ZeeMaps
+*** What is this tool?
+- ZeeMaps is a map creation tool that can be used to make custom maps with regional highlighting, points of interest, routes, and more. It can also populate maps from CSV/spreadsheet files.
+*** Why would you want to use it?
+- Because of the relative ease that one can create a map, it provides a quick way to produce materials that will help to explain the connection between regions for better explaining  material or relationships between events; regional highlighting with custom colors allows for materials to be made that fit the exact subject/topic, rather than using a generic map with overlayed annotations.
+*** How does it work?
+- The instructor goes to the ZeeMaps website and begins creating a map, which does not require a sign-in, but I found that the site ran a little smoother once I had registered/sign-ed in. Then, they can begin adding points, routes, and highlighted regions to the map. Details can then be added to the points to provide more information on the importance of the location, a website for more information, and media to be displayed. Once the map is finished, the instructor can share the map via URL or as an image (there is also an option to share it via embed in a website, but I do not believe this is allowed on Blackboard).
+*** What disciplines would it work best for?
+- History
+- English/Literature
+- Sociology
+- Business/Communication
+*** Any other useful tidbits?
+- The free account only allows for 100 views per map over its lifetime.
+  + Enterprise accounts are $999.95/year ($99.95/month) and includes 10 users
+- The maps, while being pretty easy to create, do not seem to be worth the cost that are associated with the full features.
+- While creating a map, all of my points disappeared and I had to reload the page (worrying that all of my info was lost) before they would reappear. This did not happen after I registered, but it makes me question if how easy it would be to lose work while editing a map.
+*** Example
+- https://j.mp/3eOJD5k
 * Screen recording/video lecture tools
 ** Doceri
 *** What is this tool?
@@ -266,6 +309,26 @@
 *** Example:
 - https://expl.ai/SZYVPKK
 
+** TouchCast
+*** What is this tool?
+- Touchcast is a suite of tools that focus primarily around interactive video creation.
+*** Why would you want to use it?
+- To create videos that have additional content linked within the video that does not require the viewer to leave the video to view it.
+*** How does it work?
+- The instructor can load the TouchCast Studio app on their iPad and either work on a project that has already been started, or create a new one. Once in a project, they can record audio and video; import webpages, documents, images, videos, and more; use specail effects to adjust their lighting/color and background/green screen; or add a watermark or other effects. Once their video content has been recorded, they can use the built-in linear editor to edit the clip with others to create their final video and export the final product.
+*** What disciplines would it work best for?
+- Business
+- Philosophy
+- Foriegn Languages/ESL
+- Sciences
+- Mathematics
+- IT
+*** Any other useful tidbits?
+- They offer an individual plan at $24/month (billed annually, it is $29/month if billed monthly) and Business and Enterprise plans with custom quotes.
+- While the Studio app seemed really intuitive to use, I could not find a way to make the imported media show up in the video.
+  + While there might be some documentation on how to use it, the website is less focus on teaching/showing how the app works than how to use the tools and their "Academy" area did not appear to offer the quick answers that many might prefer.
+- It works with an older iPad Air 2, but runs slowly at times.
+
 * Instruction/lesson tools (non-video)
 ** Bulb
 - Works with Tri-C account.
@@ -301,6 +364,36 @@
 - There are five different payment levels, including School & District pricing, which requires a custom quote.
 - Other than the basic white background, most of this tool seems focused at younger class, especially with their achievements.
 
+** Canva
+*** What is this tool?
+- Canva is an online creation tool to create all kinds of digital media for education (such as worksheets, digital class spaces, etc.) as well as non-educational media (such as Facebook and Instagram posts, flyers, logos, etc.).
+*** Why would you want to use it?
+- It provides a number of templates that can be used for the various types of documents that you would like to create.
+*** How does it work?
+- The instructor logs into the Canvas site, which loads them to their dashboard with their designs, the designs that have been shared with them, and more. To create a new design, they can hover over the "Templates" drop-down menu at the top of the page and choose type of item they want to create. After choosing the item, the instructor will have a number of subjects to choose from with various templates structured toward the subject. Then, once a template (or blank document) is chosen items can be added or removed by dragging and dropping to or from the document/from the various the categories of items from the left of the screen. Then, once they are done making their item, they can download it or share it via link, e-mail, Google Drive, and more.
+*** What disciplines would it work best for?
+- Math
+- English/ESL
+- Foreign Languages
+*** Any other useful tidbits?
+- Says that it is free for educators after filling out a form.
+- It appears to be structured more toward the primary and secondary educational levels, but it might still be useful in lesser complex/specialised courses.
+  + This tool might be best looked at a course/class level as opposed to a subject level when deciding whether or not it is a good fit.
+- While it offers a lot, it seems to not be as powerful as other tools that are available to the university through the Office365 subscription, though these templates and the course itself might be a bit more intuitive to use.
+** Desmos
+*** What is this tool?
+- Desmos is a math resource that both has online math tools (calculators) and activites to help students better undestand their coursework.
+*** Why would you want to use it?
+- It allows instructors to assign activities to let students practice problems associated with current topic while the instructor sees the students' answers and progress so they can adjust follow up lessons to address any issues that arise.
+*** How does it work?
+- After creating an account, an instructor can create a class in their dashboard. Then, they can search for different activities based on the subject in the search bar at the top of the page or the list of topics to the left of the page; instructors also have the option to create their own activities. Once an activity is chosen, they can preview the activity by clicking on the "Student Preview" button and assign it to a class by clicking on the "Assign" button. Once a class is created (even before anything is assigned to it), the class code can be shared with students so that they can join. Instructors can see the progress that their students are making in their Teacher view. This view also allows them to set the pacing for the activity (the amount of time that is allowed on each slide), to anonymize and hide responses, and pause the activity to allow for discussion before the activity can be continued.
+*** What disciplines would it work best for?
+- Math
+*** Any other useful tidbits?
+- Appears to be completely free to use with no payment options.
+- The activities seem to focus mostly on graphs.
+  + So, while it does appear to go as high as limits in topics, there are no activities or ways to create activities that deal with solving functions or proofs
+- The couple of activities that I previewed seemed to have questions geared more to middle and high school students, but that doesn't necessarily mean that it will not be suitable for use at the collegiate level; the appropriateness of the tool will depend more on the course and instruction style as opposed to a department-wide decision.
 ** Expeditions
 - Requires a Google account
   + Would have to set Tri-C account up as a Google one, so I instead used my personal account.
@@ -332,6 +425,8 @@
   + Would have to set Tri-C account up as a Google one, so I used my personal account instead.
 *** What is this tool?
 - Tour Creator allows for the creation of 3D virtual tours using Google Street View and Google's library of images inside locations.
+*** Why would you want to use it?
+- Provides the instructor the opportunity to have their class experience locations that are not realistically available for travel (either financially or logistically) or to view models of objects up close with digital enhancement and manipulation.
 *** How does it work?
 - The instructor signs up to use the Tour Creator and selects to create a tour, assigning the tour a cover photo, title, description, and catagory. Then, they search for a place and can drop the street view character (golden person above the zoom controls on the map) on a place to look around; valid locations will be outlined and the streetview will snap to the closest valid point, if dropped on an invalid one. Next, they click "add scene" to set a "starting view" and can then assign the scene details such as title, place, description, credits, ambient sounds, narration, and points of interest. Once all of the scenes are added, the instructor clicks the "Publish" button on the top of the screen.
 *** What disciplines would it work best for?
@@ -349,6 +444,44 @@
 *** Example:
 - https://poly.google.com/view/fNERsA7NN7U
 
+** H5P
+- Integrates with Blackboard.
+*** What is this tool?
+- H5P is an enhanced media creation tool that allows for interactive digital content (such as videos, books, pictures, quizes, etc.) to be made and distributed to students, while reporting back to the instructor the student's grade.
+*** Why would you want to use it?
+- With the variety of formats that H5P offers, it allows the instructor to present the material for the course/lesson n the format that bests suits the information and to make the material interactive to aid in both the student's retention of it and to ensure overall comprehension.
+*** How does it work?
+- The instructor clicks on the "Create Content" option and then chooses the format for what they want to create. Then, the template is loaded and they can click the buttons to add the respective content (a page, panel, image, text, etc.) to the item they are creating. Each item has a different template and, with the number of options available, they all vary in the options that are available to them, but the overall layout and use of the interface is very intuitive.
+*** What disciplines would it work best for?
+- IT
+- English/ESL
+- Foreign Languages
+- Sciences
+- Possibly Mathematics
+- Business/Communication
+- History
+*** Any other useful tidbits?
+- There is no direct mention of the price to use this integrated with Blackboard or in an Academic setting.
+  + It appears that a quote can be sent upon request.
+- Without access to this in Blackboard, I am unsure how well content created with it will show up in a lesson/course folder.
+- To get the most out of using H5P, instructors would need to recreate a lot of their content from their PDFs, powerpoints, etc. into H5P content.
+- It is not clear how well content created within H5P conforms to ADA requirements.
+** Labster
+*** What is this tool?
+- Labster is a virtual lab simulator that provides a virtual environment where students can perform labs unhindered by the resources and equipment that the school/instructor is able to provide.
+*** Why would you want to use it?
+- Through using virtual labs, instructors do not have to worry about the limitations of supplies or equipment that are available during their posted lab time or at their college. Plus, students can work at the lab at their own pace and at a time that works best for them, meaning they do not need to rush to accomplish the full lab within the constraints of the course meeting times; students and instructors also do not have to worry about a lab being performed incorrectly and wasting limited resources, thus not giving the student the opportunity to see/experience the result that they will be quizzed/tested on.
+*** How does it work?
+- From the Labster site, it appears that once Labster has been integrated into Blackboard, instructors can post assigned labs directly to their course (though, there does not appear to be any direct examples or documentation of this on their website). Once assigned, the students can load and run the simulation where they will be guided through the lab and asked questions to ensure comprehension as they progress. While it is not clear, it seems that the student's score will be loaded directly to Blackboard once they have completed the assignment.
+*** What disciplines would it work best for?
+- Science
+- Nutrition
+*** Any other useful tidbits?
+- Pricing is done based on a custom quote, but listed "As Low As $2-20/student"
+- Though it lists Windows and MacOs, it runs in a browser and so could run without any issue on my Linux system.
+- Because of the system resources that this tool uses, it is possible that it might not run very smoothly on every system.
+  + This could be exacerbated if they are using Chrome (or any Chromium-based browser), which uses more resources before running the simulation.
+- Other than running through a safety lab tutorial, there is not much information or demo material available without connectiong to Labster and working with their sales/demo team.
 ** Padlet
 - Needs system admin approval for use with Tri-C account
   + I tested it with my personal Google account and an unsigned in student
@@ -380,10 +513,145 @@
 1. https://padlet.com/thevillagetuba/dxf26d1jf0g6xoyf
 2. https://padlet.com/thevillagetuba/3czzdrewey0k6ffe
 
+** Pear Deck
+- Requires admin approval to use with Tri-C account
+*** What is this tool?
+- Pear Deck is a Google Slide and Microsft OneDrive add-on that allows for the creation of interactive slides that allow for the assessment of the student's understanding to be created. Pear Deck also allows for the slides to be presented in real time to the class (eithe remotely or in person), with the students being prompted to answer the questions in the slides as the presentation progressies; students responses are able to be shown anonymously so that they can answer without the fear of having their name displayed next to an incorrect answer.
+*** Why would you want to use it?
+- By assessing the classes understanding, the instructor is able to tell if it is time to move on or it more attention needs to be given to the subject. It is also possible to ensure that the students are paying attention (or viewing the slides if remote) because the teacher will be able to see each student's response in their dashboard.
+*** How does it work?
+- The instructor will need to ensure that the Pear Deck extension is added to the service that they are using. Next, they can add one of the pre-built templates to the slide to enable the slide to have a question on it. By clicking on the bottom of the screen, the type of response that the student provides can be changed between the various options such as drawing, multiple choice, written response, and more. Then, once the presentation is complete, the presentation can be shared with students or presented in the classroom.
+*** What disciplines would it work best for?
+- English/ESL
+- Foreign Languages
+- Social Sciences/Psychology
+- Ethics
+- Sciences
+- IT
+- Business
+*** Any other usuful tidbits?
+- Integrates with Microsoft Teams, Google Classroom, Canvas, and Schoology.
+- Has a basic plan that is free, but offers a custom quote for schools.
+- Because of the wide variety of permissions that were required for connectivity with Google Drive, and the fact that it requires admin approval to connect to OneDrive, I was not able to test out the application first hand.
+  + From the videos I was able to watch, it appears to be pretty intuitive to use, but I cannot gaurantee that would be the same experience that the end user would have.
+- The ability to have students answer quick, multiple-choice answers that appear anonymous on the screen could possibly help increase student participation in class discussions, in turn assisting in student retention of the material.
+** Quizalize
+- Needs admin approval to use with Office365 account, but can manually sign up with a Tri-C account just fine.
+*** What is this tool?
+- Quizalize is a quiz creation tool that allows for follow-up assignments to be given automatically based on the score that a student received on the quiz. It contains a number of different pre-made quizes for various subjects, as well as information and materials for a variety of curriculums (though these seem to be for those mostly at the primary and secondary level). The backend of the tool also provides reporting to provide the instructor with what questions students got wrong, how well each student did, and other bits of data to help them ensure their students are succeeding with the material.
+*** Why would you want to use it?
+- Because of the reporting and automatic assignment of follow-up materials, the instructor can let Quizalize assign the necessary materials to help the student better understand the material based on their comprehension level without needing to assign bonus assignments to the class or to require a student to find external resources.
+*** How does it work?
+- After signing in, the instructor will have the option to edit a quiz/activity they have already made or make a new one; optionally, they could also go to their gradebook to see how well students are performing on their assigned work. To create a new quiz, they can click on the "Create new Quiz" button at the top right of the screen. Then, they can give the quiz a name and click on the "Add new question" button, fill out the question and answer information, and continue adding questions as needed. Once finished, they can click on either the "Save to my library" or "Save and give to class" buttons at the top right of the creation tool. Once assigned to one of the instructor's classes, they can provide their students with the code to find the assignment.
+*** What disciplines would it work best for?
+- English/ESL
+- Foreign Languages
+- IT
+- Sciences
+*** Any other useful tidbits?
+- Billing options include plans for Departments ($4.50/teacher/month) and for schools.
+  + Free accounts are available too, but full functionality is not available and there is a limit to the number of quizes and classes that the instructor can have.
+- Very intuitive to use but the only real differentiation between what seems to already be available on Blackboard is the automatic assignment of materials based on the student's performance. Whether or not this is beneficial will depend on the course and the instructor, I think; an additional assignment might not be as beneficial as working with a tudor or spending the time to go back over the material to find where the error was made.
+*** Example
+- https://app.quizalize.com/view/quiz/test-86f86870-01e2-4378-982b-62f9869ca9ed
+** SMART Technologies
+- Requires admin approval to use with Tri-C account.
+  + Must sign up with either a Microsoft or Google account.
+*** What is this tool?
+- SMART Technologies is a lot of different tools, offering both software and hardware options for the classroom. For this project, the focus will be on the software offerings-- SMART Notebook and the SMART Learning Suite--and not on their hardware tools, such as SMART Boards, or the software that would be used in conjunction with it. The SMART Notebook is an activity/lesson creation tool that can create interactive slide presentations; the SMART Learning Suite is an online learning platform/classroom that allows the teacher to give students access to the slide presentation so that they can interact with the slides that have that functionality.
+*** Why would you want to use it?
+- Because it can be controlled from a smart device (smartphone, tablet, etc.), it allows the instructor to be mobile in their classroom while also letting students participate in short quizes, activities, and games that are included in the lecture's slide presentation, giving the instructor immediate feedback on what topics need additional instruction. Allowing students to respond on devices that they are comfortable with, and not outloud and in front of the class, will also help to promote student involvement in the lecture as students do not have to worry about giving a wrong answer in front of the class.
+*** How does it work?
+- Creating a presentation
+  + SMART Notebook
+    - If creating a presentation using the SMART Notebook software on Windows or MacOS (both implementation are nearly identical, down to the menus), the instructor can add and remove pages (similar to slides in MS Powerpoint or Google Slides) bk clicking on the bottom left of the window. To add an activity, they can click on the option in the Insert dropdown menu in the menu bar. Then, they can choose from one of the available activity options to add to the slide and edit the details for the activity. Adding text and images can be done just as with other slide presentation tools, using the corresponding options in the toolbars to the left and top of the window, or the Insert menu in the menu bar. Once the instructor is done creating their presentation, they can save it to their compute, export it as an image or PDF, or upload it directly to their SMART account.
+  + SMART Learning Suite
+    - If creating a presentation using the SMART Learning Suite online, new slides can be added using the blue button at the bottom-left of the window. Then, they can choose the type of slide (blank page, activity template, etc.) to add. If the activity requires additional information to be created, a window will open asking for that info now; otherwise, the slide can be edited using the "EDIT" button that appears on it in the center of the screen. Once the instructor is done creating their presentation, they can click the "Finish Editing" button in the top-left of the screen.
+- Presenting a lesson/presentation
+  + Once logged in to their SMART Learning Suite, the instructor can hover over any of their presentations and click on the "Start" button to start it. In the top-left corner, there is an icon with two people (below the HOME icon) that they can click on to show their class number that students can enter at hellosmart.com to join the class/presentation. Then, the instructor can use the arrow icons to the bottom-left of the screen to navigate through the presentation and click on any relevant "Start Activity" buttons that a slide might have to allow the students to work on the activity. Depending on how the pacing for the slides were set up, the students could continue working through the activities until a point is reached where the slide does not have any interactive content (or the instructor pauses the interactivity).
+*** What disciplines would it work best for?
+- English/ESL
+- Business/Communication
+- Science
+- IT
+- History
+*** Any other useful tidbits?
+- Pricing is done through custom quote.
+  + Without any discussion of pricing, it is hard to tell if this tool is worth what it might cost based on the demo.
+- I am not sure if additional functionality would be gained if these tools were also integrated with SMART boards or other hardware.
+- While the Desktop applications were fine to use, I found the online implementation much more intuitive.
+- They claim it integrates with many LMSs, but they only discuss Google Classrooms, Microsoft Teams, and Canva.
+  + I see no mention of it working with Blackboard.
+** Sutori
+*** What is this tool?
+- Sutori is a presentation tool that presents the information of a lesson in small "chunks" in a timeline-like format, similar to reading scrolling through posts on a social media platform.
+*** Why would you want to use it?
+ - In addition to presenting course/lesson information in a format that many, if no all, students will be familiar with, Sutori allows for interactive content (such as media, quizes, and comments) to be added throughout to help students engage with, and retain, the material presented. Sutori also provides data such as how long it took students to create their projectsand how many students got each question in a presentation wrong (including which students chose which answer).
+*** How does it work?
+- Once the instructor has logged in, they will either click on the story they want to edit or on the "Create story" space at the beginning of their list of stories. Then, if editing a story, they can click on the item(s) they wish to edit; or, if adding items to a new or existing story, can click on the plus icon that appears on the timeline as they hover over it. After clicking on the plus sign, they can choose the type of item they want to add (text, media, etc.) and then input any necessary information to create the post. Once they are ready to share the story with their students, they can click the blue "Share" button at the top of the story to gain the necessary links (embed, Google, etc.) to distribute the material to their students. They can also click on the "Present" button to start a slideshow-like presentation of the slide for use at the front of their classroom.
+*** What disciplines would it work best for?
+- English
+- History
+- Business
+- Science
+- The Arts
+*** Any other useful tidbits?
+- Educational price quotes are available upon request.
+- Similar to loading a lot of social media sites, some of the sample stories did not fully load until I scrolled down, causing the page to jump.
+  + This makes me a little concerned with how something like a Chromebook might deal with a larger/longer story with a lot of embedded media.
+- Sutori only has one layout format, a top-to-bottom timeline, which is not suitable for every topic within every subject/course.
+  + Beyond the usefulness of the tool, whether or not this linear structur is conducive to the topic/assignment should be considered before deploying this tool.
+- Their website states that it integrates with Blackboard, among other services.
+** ThingLink
+- Does not work with Tri-C account through Microsoft sign-up, but does if the account is created manually.
+*** What is this tool?
+- ThingLink is an interactive lesson tool that allows for the addition of notes, links, and media to be added to other media, creating a virtual "tour" of the lesson's material.
+*** Why would you want to use it?
+- It has built in sentence structure analysis and translation tools, intuitive navigagion for both the user and the creater, can help to create more immersive lectures (especially in remote courses), and, because of it's approach to connecting content, can help students understand how the course's content connects and prevent disjointed learning (such as understanding a concept in only a minute or superficial way).
+*** How does it work?
+- The instructor creates uploads an image or video to the their ThingLink. Then, they can add tags of four different types: text/media, plain text, content from a website (such as a website or tool from a website), or a tour (which is used to link multiple ThingLinks). Once the preferred tag type is chosen, the form is filled out with what information the tag should provide and the tag is placed at the instructor's desired location, more tags can be added or the ThingLink can be saved. When they are ready to publish it, they can click on the "Publish" button and choose the method that they wish to share it.
+*** What disciplines would it work best for?
+- Engish/Writing
+- Foreign Languages/ESL
+- History
+- Geography
+- Business
+- IT
+- Science/Anatomy
+- Any course that relies heavily on media to understand the material
+*** Any other useful tidbits?
+- Limited features are available for free.
+  + Premium is $35/year, though they have links to submit discount codes and to contact them for pricing for groups.
+- All text can be read to the user, labelled with it's structure/parts of speech, and translated into varius languages (with what appears to be Microsoft's translation tool).
+  + The female-voiced translations where much smoother in their speach than the male.
+  + While translating through English, French, German, Hungarian, and Romanian did seem to provide grammatically correct translations (though my Hungarian is very limited), the speach would not always be correct.
+- The premium account gives access to professional images that seems like they would be able to be used as the basis for a ThingLink instead of one being uploaded from the instructor's device, but this is not very clearly explained.
+
+** Wakelet
+*** Whan is this tool?
+- Wakelet is a curation tool for collecting, organizing, and sharing web content.
+*** Why would you want to use it?
+- The browser extension, along with the iOS and Android apps, allow for for easily adding articles, videos, tweets, and other web content into collections to easily share them as one cohesive unit with text and images.
+*** How does it work?
+- The instructor chooses to either create a new collection or edit an existing one. Then, they can click on the "plus" buttons to add content; after each new piece of content is added, there will be a "plus" button added both above and below it. Content can also be added through the mobile apps (using the the share function) or by clicking on the browser extension's icon and choosing the desired collection. Content can be reordered by either clicking and dragging the content to its new desired location or by clicking on the directional links that appear to the right when you hover over it. Once all desired content is added and in the desired order (including in the being in the desired layout), the instructor can click the "Done" button at the top of the page to go back to view the collection, which can be shared by clicking on the "Share" button and selecting the desired method.
+*** What disciplines would it work best for?
+- English/Composition
+- IT
+- Business
+- Philosophy
+- History
+*** Any other useful tidbits?
+- Appears to be completely free to use
+- Integrated with both Google Drive and MS OneDrive
+- Easy to invite collaborators
+- Overall, very intuitive to use with decent documentation and a YouTube channel with how-to videos.
+ 
 ** Webjets
 - Works just fine with Tri-C account, but the e-mails from it were flagged as spam.
 *** What is this tool?
 - Webjets is a artboard-style tool that allows for ideas, links, and documents to be grouped and organized in a logical manner.
+*** Why would you want to use it?
+- This can help to provide structure to a course and provide students with clear, linear idea of where they are in terms of their progression through the course/lesson.
 *** How does it work?
 - The instructor can create an artboard for a specific class, lecture, or project/assignment. Once created, they can place cards, mindmaps, folders, lists, links, documents, etc. onto the artboard and organize them on the board as would best fit the item or instructor's purpose. Webjets has a button to easily import both Wikipedia articles and Youtube videos. Folders can contain other folders, cards, lists, links, and everything else to keep those items organized (the same is true for every other type of object, as well). Those items can also be given additional views that give them there own space on the artboard for better viewing. The artboard can be shared with specific people, giving them editing or view permissions, or it can be published and distributed with a link.
 *** What disciplines would it work best for?
@@ -404,6 +672,8 @@
 ** GeoGuessr
 *** What is this tool?
 - This is an online game where the player is set into a certain series of locations and they must guess where on the map they are.
+*** Why would you want to use it?
+- GeoGuessr provides a fun way to explore areas of the world that would be difficult to travel to, especially as a class. With some maps/locations, students will be able to traverse various sites, guessing the possible cultures and topographical qualities that led to the location being developed/built the way it was.
 *** How does it work?
 - After loading the website and logging in, the type of map (either a specific country, type of location, etc.) is chosen and the game loads with the player seeing a Google Street View of a particular location. Depending on the specific game mode's settings, they might be able to move around to various views. Once they are ready, they can choose a location on the map in the bottom right of the screen to take their guess. Points are awarded based on how close their guess was to their actual location and the next location is loaded, if there are any left.
 *** What disciplines would it work best for?
@@ -419,6 +689,8 @@
 ** Great Big Story
 *** What is this tool?
 - This is an online archive of short videos--some documentary in style, some more of a an interview/explanation--that are designed to help expose the viewer to people of other cultures and backgrounds to discover the simularities that everyone shares.
+*** Why would you want to use it?
+- Students will get to see short documentaries and hear people of different cultures and generations explain various parts of their culture, work, life, and the world that surounds them. Instead of reading a chapter of a textbook or listening to a lecture from a professor, they can hear from those that experience the subject every day.
 *** How does it work?
 - After pulling up the site, the instructor searches for a video or series that they would like to use. They can then play the video for the class or copy the link to include it in an assignment.
 *** What disciplines would it work best for?
@@ -429,10 +701,28 @@
 *** Any other useful tidbits
 - While the archive will be kept accessible, the project is no longer being worked on as of September.
 - The site is free to use, but everything on the site is considered copywritten by Great Big Story and so it is not clear their stance on their work being presented to groups in classroom.
- 
+
+** LifeLiqe
+*** What is this tool?
+- LifeLiqe is a provider of 3D models that can be used in labs and lectures to demonstrate everything from human anatomy/biology to celestial bodies and astronomy to modern and pre-historic plant and animal biology.
+*** Why would you want to use it?
+- Not only does LifeLiqe provide high-quality renders of objects that might be too expensive to provide to some or all labs, it allows for the user to zoom in and manipulate the viewing angle on the object to try and get the most appropriate/best view of what is being discussed. These models have supplimental information, such as text and related model trees, and can the software can let the user hightlight specific areas to help them locate areas that are important or being discussed.
+*** How does it work?
+- An instructor can share a model with a class through URL, access code, or QR code. Then, the student can access the model and explore it while reviewing the material that the instructor has provided in the rest of the lesson materials. The models are grouped by subject and are searchable through the instructor's dashboard.
+*** What disciplines would it work best for?
+- Sciences
+- Medical Technologies/Nursing
+- Mathematics
+*** Any other useful tidbits?
+- Pricing is done through a quote and there is no information on their site regarding it.
+- It also works with VR headsets.
+- The models had a decent level of detail, even at max zoom, and the animations did not have any problem running smoothly in my browser.
+  + Systems with less resources might have an issue running some of the models as I am not sure how well they might scale based on user settings.
 ** Story Corps
 *** What is this tool?
 - This is an archive of interviews/conversations with people across the country that talk about their life expriences
+*** Why would you want to use it?
+- Students can listen to short interviews from people of different ethnic, cultural, and genetational backgrounds talk about historic events, personal struggles, and other topics that have shaped their lives, giving the student first-hand knowledge of topics that are often difficult to present with the same weight and authenticity within a lecture or textbook.
 *** How does it work?
 - The instructor loads the site and goes to the "Stories" tab. There, they can search through the archives and filter the results to find one that fits their topic. Then, they can copy the URL of the story into an assignment or play it for the class.
 *** What disciplines would it work best for?
@@ -444,9 +734,29 @@
 - The archive is free to access and nothing in their Terms of Use seems to limit its use in a classroom.
 
 * Editing tools
-** Prowiting Aid
+** EquatIO
+- Needs admin approval to use with Tri-C account.
+*** What is this tool?
+- EquatIO is a tool used to insert mathematical formulas and graphs into documents without needing to learn complicated syntax or coding that might be required with something like LaTeX.
+*** Why would you want to use it?
+- It makes inserting formulas and graphs into handouts very simple and allows for students to take notes and do assignments on their computer without having to slow down to figure out how their word processor allows them to input these into their document. With its auto-complete and speak-to-text features, it also allows students to take notes and without needing to remember the exact wording or structure of a formula.
+*** How does it work?
+- There are a number of different ways to get the app, but they seem to work mostly in the same way:
+  + Once the app is loaded, the user can either type on their keyboard (or, if using a touchscreen device, can write on their screen) and EquatIO will turn what is written into the standard equation formatting. If they are using the auto-complete or speak-to-text feature, then they can click on the microphone button and speak the equation into their device and the app will provide the necessary formatting. Once the equation is formatted to their liking, they can click on the "Insert Math" button to add the equation to the document that they are working on.
+*** What disciplines would it work best for?
+- Math
+- Sciences
+- Finance
+- Engineering
+*** Any other useful tidbits?
+- While free for teachers, it costs money for students.
+  + Pricing starts at $10/student for Groups (150+ students) or $1/student for Districts (350+ students).
+- When using the Windows app, it covered up my Taskbar, so I could not access any other software while it was up. This might have also been an issue on the Mac, but my Dock is kept on the side of my screen.
+** ProWriting Aid
 *** What is this tool?
 - A writing/editing tool to assist in improving the spelling, grammar, and style of a students writing; it also has the ability to perform plagiarism checks.
+*** Why would you want to use it?
+- ProWriting Aid helps to improve the writing of the user by giving recommendations of how the text can be more concise, more readible, and by highlighting spelling and grammatical errors. This can help to point out errors that someone might miss in proofing their own work and save the time and money of finding someone else to proofread their work.
 *** How does it work?
 - The instructor can either copy and paste in some text or upload a document. As soon as that is done, the software immediately begins to check for ways that the writing in the document could be improved. They could also check the realtime count of what is being found, or use any options along the top bar to see more specific information, including checking for signs of plagiarism.
 *** What disciplines would it work best for?
@@ -461,3 +771,22 @@
 - Integrates with Google Drive, MS Word, and most major browsers.
 - This cannot take tone or stylized writing into account, so it my test documents contained many "errors" that would have made the documents more difficult to read if the suggested corrections were accepted.
   - Did not seem to work well with technical writing as it consistently wanted to simplify phrases down to a point were the meaning was no longer clear.
+
+* Tools that were not included
+- The following tools were including in the project list, but were not included in the categories above. This section will explain why they were excluded so that it can be decided whether or not more research into the tool might be warranted for a more specific application.
+** Airhead
+- Airhead's website offered a lot of buzz words in their descriptions, but, at the time of my research, did not offer any examples or demos of what the tool or tools are capable of doing. When trying to log in with Microsoft, there was an error saying that the server couldn't be found; trying to sign on with Google gave an error saying that Google had temporarily disabled access for the app because it had not yet been verified by google.
+** Black Bullion
+- Black Bullion is a financial education site/service that helps students learn how to make better decisions regarding their financial health and education. The service has you choose a university during registration, but only seems to list those in the UK and South Africa, meaning that I could not try it out. Plus, I am not sure of how this could be used in the class room as it provides personal recommendations based on sensitive information.
+** g(MATH)
+- g(MATH) was discontinued by its creator and is no longer available. In its place, please see the editing tool EquatIO, which is the replacement tool from the same provider.
+** Learn Around the World
+- Learn Around the World is a virtual field trip program where a guide takes the class, or group of classes, on a guided tour of various locations around the world. In addition to large group tours, they also offer smaller tours and conversations/interviews with people of different cultures around the world. There was no demo available for this and the site pitches their service as being geared toward learners in grades 2-5, with common questions for the interviews being "do you have an Xbox" and "what is your favorite food?" So, without a demo of how the service can be geared toward an older audience, I cannot find a reason to include this in my list of recommendations.
+** SiLAS Solution
+- SiLAS Solutions is a behavoural education tool used to help students work on developing better social and communication skills though a video-game-like virtual simulation where their work can be easily recorded, shared with parents and teachers, and then reviewed. While powerful for its intended application, I am not sure of how well it could be applied to the post-secondary level nor what requirements (other than only working on the Chrome browser) it would require to run smoothly.
+** Trovvit
+- Trovvit is an application/tool similar to LinkedIn and Handshake where the user can create a profile that will serve as both their resume and as a way to make connections with others in their school and field. I do not know of how this would be used within the classroom and, unless it is widely adopted by the community, university, or a specifit industry, I do not see how it would have any benefits over the previously mentioned tools that are both used and discussed at Tri-C and in it's courses already.
+** Unimersive
+- Being a VR-only application, this was not a tool that I was able to test as I do not own any VR equipment. The website, while offering some videos, only had one that seemed to be an actual example of one of the lessons in action and that did not have any sound, making it difficult to tell if it was self guided or if it required the instructor to guide them. A lot more information would need to be provided, none of which is on their website, and their "Virtual Reality in your School - USA" link in their footer did not work; the one for the UK did, and had it priced at $49 per headset (not including the headset).
+** UpGrad
+- UpGrad appears to be an online Indian University or "Meta" University that offers courses through other organizations to provide alternative means of access, and possibly alternative programs or pathways, to the various universities offerings.

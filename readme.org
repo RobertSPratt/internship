@@ -2,7 +2,11 @@
 
 * Project Summary
 This project shows notes on various Educational Tech Tools that have come to the attention of the Center for Learning Excellence at the Metro campus for Cuyahoga Community College that they are interested in learning more about. The list of these tools, as given to me and not in any order, are given lower in this document. This project will provide notes on what these tools are and how they are used and will catagorize them into smaller groups that represents their function for better comparisons.
-* Poject update history
+* Poject update history:
+    * 1 October 2020
+      - ProWriting Aid, Great Big Story, Geoguessr, and Yoteach were all looked at and entries were created for them.
+      - worked on Equity Maps
+      - Worked on Doceri, Educreations, Story Corps, Bulb, Buncee, and Edpuzzle. Updated Emernote with Mac desktop app info.
 **** 19 September 2020
 - Added the readme.org to the repo and added Webjets to the toolNotesComplete.org file.
 **** 18 September 2020
@@ -36,28 +40,28 @@ This project shows notes on various Educational Tech Tools that have come to the
 18) [X] Geoguessr
 19) [X] Webjets
 20) [X] Yoteach
-21) [ ] ClassroomQ
-22) [ ] ThingLink
-23) [ ] Wakelet
+21) [X] ClassroomQ
+22) [X] ThingLink
+23) [X] Wakelet
 24) [X] Padlet
-25) [ ] Touchcast
-26) [ ] UpGrad
-27) [ ] H5P
-28) [ ] Airhead
-29) [ ] Canva
-30) [ ] Pear Deck
-31) [ ] SiLAS Solutions
-32) [ ] Black Bullion
-33) [ ] Quizalize
-34) [ ] Trovvit
-35) [ ] Labster
-36) [ ] Zeemaps
-37) [ ] Unimersiv
-38) [ ] Learn Around the World
-39) [ ] Desmos
-40) [ ] SMART Technologies
-41) [ ] (g)Math
-42) [ ] Lifeliqe
-43) [ ] Sutori
+25) [X] Touchcast
+26) [X] UpGrad
+27) [X] H5P
+28) [X] Airhead
+29) [X] Canva
+30) [X] Pear Deck
+31) [X] SiLAS Solutions
+32) [X] Black Bullion
+33) [X] Quizalize
+34) [X] Trovvit
+35) [X] Labster
+36) [X] Zeemaps
+37) [X] Unimersiv
+38) [X] Learn Around the World
+39) [X] Desmos
+40) [X] SMART Technologies
+41) [X] (g)Math
+42) [X] Lifeliqe
+43) [X] Sutori
 44) [X] Insert Learning
 45) [X] Explain Everything
