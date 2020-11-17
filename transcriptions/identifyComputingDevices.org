@@ -1,0 +1,42 @@
+#+TITLE: Identify Computing Devices
+
+* Computing Devices
+** Welcome
+Welcome to Identify Computing Devices.
+In this learning activity, you will become familiar with the basic skills needed to use a computer.
+** Learning Objectives
+After succesfully completing this activity, you'll be able to:
+- Identify the primary hardware of a computer.
+- Identify the purposes of computer hardware components such as the system unit, monitor, printer, keyboard, mouse or touchpad, and USB ports.
+- Compare various computing devices such as tablets, personal computers, laptops, and other mobile devices.
+- Classify terms according hardware, software, applications, and systems.
+- Identify the components of a computer system.
+** Desktop Parts
+A computer is an electronic device that processes information. With a computer, you can create documents, like resumes, look up information on the internet, watch movies, play games, and much more. The computer in this picture is called a desktop computer. A desktop computer is made up of a tower, monitor, keyboard, and other peripherals; it's not designed to be moved from place to place.
+** Desktop Hardware
+Select a marker to learn more about that component.
+*** Monitor
+The monitor is a desktop computer's display screen. It shows the user both text and images.
+*** Computer Tower
+The computer tower houses a desktop computer's hardware, including the CPU and motherboard.
+*** Keyboard
+The keyboard allows the user to enter letters, numbers, and symbols into word processing and application software.
+*** Mouse
+The mouse is a pointing device that communicates with the computer.
+** PC vs Mac
+The computer /you/ use may be a PC, which stands for Personal Computer. In the photo, the computer on the left is a PC. Companies like Dell, Acer, and Hewlett-Packard produce PCs. The computer on the right is a Mac, short for Macintosh, and is made by Apple. These two types of computers work a bit differently, but this learning activity will focus on their similarities.
+** Laptop Hardware
+The computer in this picture is called a laptop computer. While the desktop is meant to stay in one place, a laptop is easy to set up and use in different locations. Laptops usually run the same types of programs, or software, as desktop computers--they're just more portable. Laptops have a built-in keyboard, screen, and touchpad; an external mouse can be plugged in to replace the touchpad. Select a marker to learn more about that component.
+*** Screen
+The screen displays visual information, including texts and images.
+*** Keyboard
+The keyboard allows the user to enter letters, numbers, and symbols into word processing and application software.
+*** Touchpad
+The touchpad replaces the mouse. It allows your thump, or fingers, to control the on-screen mouse, or cursor.
+*** Computer Case
+The computer case is the protective outer covering of a laptop computer.
+** Practice Identification
+Let's practice identifying the parts of a computer. Select each term to highlight the corresponding part on the laptop or desktop computer.
+* Mobile Devices
+** Types
+Now let's look at a type of computer called a mobile device. Mobile devices are hand-held computers. Tablets, e-readers, and smartphones are all mobile devices and are design to be portable and easy to use.
